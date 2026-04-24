@@ -7,6 +7,13 @@ This project focuses on classifying gamma-ray (signal) and hadron (background) e
 The goal is to develop a machine learning model capable of accurately distinguishing between these two event types, which is critical in astrophysics for identifying sources of high-energy gamma radiation.
 
 ---
+## 📂 Data
+
+The dataset used in this project is included in the `data/` folder.
+
+Source: MAGIC Gamma Telescope Dataset
+
+---
 
 ## 📊 Dataset
 - Source: MAGIC Gamma Telescope dataset  
