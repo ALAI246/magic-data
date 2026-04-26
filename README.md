@@ -3,7 +3,10 @@
 ---
 ## 📷 Sample Output
 
-![Correlation matrix](./images/correlation_matrix.png)
+![Feature Distribution](images/distribution_feature0.png)
+
+---
+![Target Distribution](images/distribution_target.png)
 
 ## 📌 Project Overview
 This project focuses on classifying gamma-ray (signal) and hadron (background) events detected by the MAGIC (Major Atmospheric Gamma-ray Imaging Cherenkov) telescope.
@@ -39,7 +42,7 @@ Key analyses performed:
 ---
 ## 📊 Correlation Matrix Heatmap
 
-![Correlation Matrix Heatmap](images/correlation_matrix.png)
+![Correlation Matrix Heatmap](images/correlation_matrix_heatmap.png)
 
 ### Insights:
 - Features exhibit varying distributions requiring scaling  
