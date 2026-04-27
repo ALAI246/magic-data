@@ -42,7 +42,7 @@ Key analyses performed:
 ---
 ## 📊 Correlation Matrix Heatmap
 
-![Correlation Matrix Heatmap](images/correlation_matrix_heatmap.png)
+![Correlation Matrix Heatmap](image/correlation_matrix_heatmap.png)
 
 ### Insights:
 - Features exhibit varying distributions requiring scaling  
